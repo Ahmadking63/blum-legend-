@@ -20,15 +20,18 @@ from ..core.agents import generate_random_user_agent
 
 start_text = """
 
-▗▄▄▄▄ ▗▄▄▄▖ ▗▄▄▖ 
-▐▌     ▐▌    ▐▌ ▐▌
-▐▛▀▀▘ ▐▛▀▀▘ ▐▛▀▘ 
-▐▌     ▐▙▄▄▖ ▐▌   
-               
 
+  ______ ______ _____  
+ |  ____|  ____|  __ \ 
+ | |__  | |__  | |__) |
+ |  __| |  __| |  ___/ 
+ | |    | |____| |     
+ |_|    |______|_|     
+
+                                                          
 HACK NAME: BLUM LEGEND 
         
-CREATE BY: FARUK EARNING POINT 
+CREATE BY: FARUK EARNING POINT (FEP)
 CONTRACT ON TELEGRAM: @FARUKKING63
 TELEGRAM CHANEL: https://t.me FarukEarningPoint    
 YOUTUBE CHNNEL: @FARUK EARNING POINT 
