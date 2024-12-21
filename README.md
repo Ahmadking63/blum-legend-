@@ -118,8 +118,8 @@ You can also use arguments for quick start, for example:
 ```
 > pkg update && pkg upgrade -y
 > pkg install python nodejs rust git -y
-> git clone https://github.com/vanhbakaa/Blum.git
-> cd Blum
+> git clone https://github.com/vanhbakaa/blumlegend.git
+> cd blum-legend 
 > pip install -r requirements.txt
 > python main.py
 ```
